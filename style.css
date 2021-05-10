@@ -1,0 +1,44 @@
+h1{
+    color:white;
+}
+a{
+    color: white;
+}
+li{
+    color: white;
+}
+*{
+    background-color: turquoise;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.camel{
+    display: flex;
+    justify-content: space-evenly;
+}
+.chameleon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cicada{
+    display: flex;
+    justify-content: space-evenly;
+}
+.panda{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pigeon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+    color: white;
+}
